@@ -29,7 +29,7 @@ Use UUID without dashes.
 ```
 
 # Links
-OptiFine: http://s.optifine.net/capes/USERNAME.png
-LabyMod: http://capes.labymod.net/capes/USE-DASHES-UUID.png
-MinecraftCapes.co.uk: https://www.minecraftcapes.co.uk/getCape.php?u=USERNAME
-5Zig: http://textures.5zig.net/textures/2/NODASHESUUID
+- OptiFine: http://s.optifine.net/capes/USERNAME.png
+- LabyMod: http://capes.labymod.net/capes/USE-DASHES-UUID.png
+- MinecraftCapes.co.uk: https://www.minecraftcapes.co.uk/getCape.php?u=USERNAME
+- 5Zig: http://textures.5zig.net/textures/2/NODASHESUUID
